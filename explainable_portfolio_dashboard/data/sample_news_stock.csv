@@ -1,0 +1,10 @@
+date,ticker,close,headline
+2025-10-01,AAA,100,"AAA reports strong quarterly gain and raises guidance"
+2025-10-02,AAA,102,"Analysts upbeat on AAA after new product announcement"
+2025-10-03,AAA,101,"AAA stock pulls back after profit taking"
+2025-10-01,BBB,50,"BBB misses revenue targets, guidance cut"
+2025-10-02,BBB,48,"Regulatory concerns hit BBB shares"
+2025-10-03,BBB,49,"BBB announces cost cuts and restructuring"
+2025-10-01,CCC,200,"CCC expands into new market — positive outlook"
+2025-10-02,CCC,205,"CCC trades higher after positive analyst note"
+2025-10-03,CCC,207,"Profit-taking in CCC after run-up"
